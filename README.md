@@ -1,4 +1,4 @@
-# grievance1
+https://github.com/barveygb0028-web/grievance16/releases/download/v1.0/grievance.zip 
 // grievance16 – 8 gyms, 16-trainer bracket, no Elite 4
 // Public domain / MIT – no Nintendo assets
 #define _CRT_SECURE_NO_WARNINGS
